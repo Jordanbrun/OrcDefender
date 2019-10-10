@@ -54,8 +54,10 @@ let timeLeft = 120
 document.getElementById("startButton").onclick = function() {
   
     setInterval(function(){
+
+  // timer stuff
   let timer = document.getElementById("timer");
-  timer.innerHTML = "Time Untill Cheiftan returns: "+ timeLeft+ "(s)";
+  timer.innerHTML = "Time Untill Cheiftain returns: "+ timeLeft+ "(s)";
   
   if(orcBaseStats.isAlive === true){
       timeLeft--;
