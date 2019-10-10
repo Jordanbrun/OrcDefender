@@ -1,5 +1,4 @@
-# PackProtector
-Protect your pack! Click enemies and upgrade your hounds through each level to prevent your territory from being taken over by enemies! 
+Your chieftain has left the homeland for a meeting with the neighboring tribes. Defend the base by clicking enemies until her return. 
 
 
 https://trello.com/b/GCubev8R/project-1-planning
