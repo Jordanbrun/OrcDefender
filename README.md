@@ -5,3 +5,6 @@ https://trello.com/b/GCubev8R/project-1-planning
 
 
 wireframe checked
+
+
+//editing this part just to make sure everything was committed 
